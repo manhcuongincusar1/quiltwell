@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manhcuongincusar1.github.io/quiltwell/sitemap.xml
